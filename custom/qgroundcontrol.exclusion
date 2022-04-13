@@ -1,0 +1,12 @@
+        <file alias="QGroundControl/FlightDisplay/FlyViewCustomLayer.qml">src/FlightDisplay/FlyViewCustomLayer.qml</file>
+        <file alias="GeneralSettings.qml">src/ui/preferences/GeneralSettings.qml</file>
+        <file alias="MainRootWindow.qml">src/ui/MainRootWindow.qml</file>
+        <file alias="PlanView.qml">src/PlanView/PlanView.qml</file>
+        <file alias="MissionSettingsEditor.qml">src/PlanView/MissionSettingsEditor.qml</file>
+        <file alias="QGroundControl/ScreenTools/ScreenTools.qml">src/QmlControls/ScreenTools.qml</file>
+        <file alias="AnalyzeView.qml">src/AnalyzeView/AnalyzeView.qml</file>
+        <file alias="QGCLogoBlack">resources/QGCLogoBlack.svg</file>
+	<file alias="QGCLogoFull">resources/QGCLogoFull.svg</file>
+        <file alias="QGCLogoWhite">resources/QGCLogoWhite.svg</file>
+
+
