@@ -42,5 +42,6 @@
         <file alias="MissionSettingsEditor.qml">res/CustomMissionSettingsEditor.qml</file>
         <file alias="QGroundControl/ScreenTools/ScreenTools.qml">res/CustomScreenTools.qml</file>
         <file alias="AnalyzeView.qml">res/CustomAnalyzeView.qml</file>
+        <file alias="QGroundControl/Controls/CameraSection.qml">res/CustomCameraSection.qml</file>
     </qresource>
 </RCC>

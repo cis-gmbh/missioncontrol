@@ -356,7 +356,7 @@ ApplicationWindow {
                         }
 
                         QGCLabel {
-                            text:                   "4.1.7.2"
+                            text:                   "4.1.7.3"
                             font.pointSize:         ScreenTools.smallFontPointSize
                             wrapMode:               QGCLabel.WrapAnywhere
                             Layout.maximumWidth:    parent.width

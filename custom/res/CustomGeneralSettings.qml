@@ -1133,7 +1133,7 @@ Rectangle {
                         Layout.alignment:   Qt.AlignHCenter
                     }
                     QGCLabel {
-                        text:               "4.1.7.2"
+                        text:               "4.1.7.3"
                         Layout.alignment:   Qt.AlignHCenter
                     }
                 } // settingsColumn

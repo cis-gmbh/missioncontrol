@@ -5001,14 +5001,16 @@ Click Ok to start the auto-tuning process.
         <translation>CameraCalc section version %1 not supported</translation>
     </message>
     <message>
+        <location filename="../src/MissionManager/CameraCalc.cc" line="299"/>
         <location filename="../src/MissionManager/CameraCalc.cc" line="310"/>
         <source>Custom Camera</source>
         <translation>Eigene Kamera</translation>
     </message>
     <message>
+        <location filename="../src/MissionManager/CameraCalc.cc" line="305"/>
         <location filename="../src/MissionManager/CameraCalc.cc" line="315"/>
         <source>Manual (no camera specs)</source>
-        <translation>Manuell (keine Kamera Spezifikationen)</translation>
+        <translation>Manuell</translation>
     </message>
 </context>
 <context>
@@ -5202,7 +5204,7 @@ Click Ok to start the auto-tuning process.
     <message>
         <location filename="../src/PlanView/CameraSection.qml" line="29"/>
         <source>Camera</source>
-        <translation>Kamera</translation>
+        <translation>Kamera Neigung</translation>
     </message>
     <message>
         <location filename="../src/PlanView/CameraSection.qml" line="54"/>
@@ -5222,7 +5224,7 @@ Click Ok to start the auto-tuning process.
     <message>
         <location filename="../src/PlanView/CameraSection.qml" line="107"/>
         <source>Pitch</source>
-        <translation>Pitch</translation>
+        <translation>Neigung</translation>
     </message>
     <message>
         <location filename="../src/PlanView/CameraSection.qml" line="108"/>

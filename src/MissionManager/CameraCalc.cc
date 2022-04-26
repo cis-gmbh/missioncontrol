@@ -295,14 +295,14 @@ bool CameraCalc::load(const QJsonObject& originalJson, bool deprecatedFollowTerr
 
 QString CameraCalc::canonicalCustomCameraName(void)
 {
-    // This string should NOT be translated
-    return "Custom Camera";
+    
+    return tr("Custom Camera");
 }
 
 QString CameraCalc::canonicalManualCameraName(void)
 {
-    // This string should NOT be translated
-    return "Manual (no camera specs)";
+    
+    return tr("Manual (no camera specs)");
 }
 
 QString CameraCalc::xlatCustomCameraName(void)
